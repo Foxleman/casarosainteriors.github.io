@@ -1,0 +1,29 @@
+header {
+	background-color: #577789;
+	font-family: 'Raleway';
+	font-size:13px;
+	}
+body {
+	background-color: #467;
+}
+
+.im{
+  display: block;
+  width: 50%;
+  height: auto;
+  position: fixed;
+}
+h1 {
+  color: #807089;
+  position: absolute;
+  right: 16px;
+}
+img {
+	padding: 20px;
+	width: 50%;
+	height: auto;
+}
+.nothing{
+	width: 50%;
+	height: auto;
+}
